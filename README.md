@@ -15,7 +15,6 @@ In continuing to study computer science, I've come to realize I seek to be at th
 - SlinkyBot
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
