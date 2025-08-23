@@ -6,9 +6,9 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 
 ## Objective
 
-Continuing to study computer science, I've come to realize I seek to be at the intersection of software development and cybersecurity. As such, I am eager to start my journey into this field as a frontend/backend webdeveloper.
+In continuing to study computer science, I've come to realize I seek to be at the intersection of software development and cybersecurity. As such, I am eager to start my journey into this field as a frontend/backend webdeveloper.
 
-## Projects
+## Projects (from most to least recent)
 - Pygit
 - Telegram Script
 - Smart Bottle Base
@@ -28,16 +28,24 @@ Continuing to study computer science, I've come to realize I seek to be at the i
 
 ### Development
 <div>
-    <img src="https://img.shields.io/badge/-VS Code-grey?&style=for-the-badge&logo=Devbox&logoColor=39ff14"> <!--VS Code-->
+    <a href="https://code.visualstudio.com/download">
+        <img src="https://img.shields.io/badge/-VS Code-grey?&style=for-the-badge&logo=Devbox&logoColor=39ff14">
+    </a>
     <br/>
-    <img src="https://img.shields.io/badge/-HTML-9B111E?&style=for-the-badge&logo=HTML5&logoColor=F06529"/> <!--HTML-->
+    <a href="https://en.wikipedia.org/wiki/HTML5">
+        <img src="https://img.shields.io/badge/-HTML-9B111E?&style=for-the-badge&logo=HTML5&logoColor=F06529"/>
+    </a>
 </div>
 
 ### Languages
 <div>
-    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=FFF01F"/> <!--Python-->
+    <a href="https://www.python.org/downloads/">
+        <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=FFF01F"/>
+    </a>
     <br/>
-    <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=openjdk&logoColor=black"/> <!--Java-->
+    <a href="https://www.java.com/en/download/">
+        <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=openjdk&logoColor=black"/>
+    </a>
     
 </div>
 
