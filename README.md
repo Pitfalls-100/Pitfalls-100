@@ -26,16 +26,16 @@ Continuing to study computer science, I've come to realize I seek to be at the i
 
 ## Tools
 <div>
-    <img src="https://img.shields.io/badge/-VS Code-black?&style=for-the-badge&logo=Devbox&logoColor=39ff14"> <!--VS Code-->
+    <img src="https://img.shields.io/badge/-VS Code-grey?&style=for-the-badge&logo=Devbox&logoColor=39ff14"> <!--VS Code-->
     <br/>
-    <img src="https://img.shields.io/badge/-HTML-red?&style=for-the-badge&logo=HTML5&logoColor=FFF01F"/> <!--HTML-->
+    <img src="https://img.shields.io/badge/-HTML-9B111E?&style=for-the-badge&logo=HTML5&logoColor=FFF01F"/> <!--HTML-->
 </div>
 
 ### Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=FFF01F"/> <!--Python-->
     <br/>
-    <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=openjdk&logoColor=2323FF"/> <!--Java-->
+    <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=openjdk&logoColor=87ceeb"/> <!--Java-->
     
 </div>
 
