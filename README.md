@@ -4,7 +4,7 @@
 
 I am a rising sophmore with a deep interest in technology and a predilection to solving complex problems.
 
-## Objective
+## About Me
 
 In continuing to study computer science, I've come to realize I seek to be at the intersection of software development and cybersecurity. As such, I am eager to start my journey into this field as a frontend/backend webdeveloper.
 
