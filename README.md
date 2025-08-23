@@ -19,7 +19,7 @@ Continuing to study computer science, I've come to realize I seek to be at the i
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Version Control Fundamentals          | <a href="[https://google.com](https://github.com/Pitfalls-100/Making_Pygit)">Pygit (wyag)</a>|
+| Version Control Fundamentals          | <a href="https://github.com/Pitfalls-100/Making_Pygit">Pygit (wyag)</a>|
 | Script Scheduling & API Integration | <a href="https://github.com/Pitfalls-100/Telegram_Bot_Script">Telgram Script</a>|
 | CrossPlatform Code Communication (Pi + Arduino)         | <a href="https://github.com/Pitfalls-100/Smart_Bottle_Base">Smart Bottle Base</a>|
 | HTTP Post Requests & Software + Hardware Integration (Arduino + Sensors)   | <a href="https://github.com/Pitfalls-100/SlinkyBot">SlinkyBot</a>|
@@ -35,8 +35,8 @@ Continuing to study computer science, I've come to realize I seek to be at the i
 ### Languages
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-blue&style=for-the-badge&logo=Python&logoColor=yellow"/> <!--Python-->
-    <img src="https://img.shields.io/badge/-Java-orange&style=for-the-badge&logo=Java&logoCOlor=blue"/> <!--Java-->
+    <img src="https://img.shields.io/badge/-Python-blue?&style=for-the-badge&logo=Python&logoColor=yellow"/> <!--Python-->
+    <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=Java&logoCOlor=blue"/> <!--Java-->
     
 </div>
 
