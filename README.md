@@ -26,8 +26,8 @@ Continuing to study computer science, I've come to realize I seek to be at the i
 
 ## Tools
 <div>
-    <img src="https://img.shields.io/badge/-VS Code-black&style=for-the-badge&logo=VS Code&logoColor=green"> <!--VS Code-->
-    <img src="https://img.shields.io/badge/-HTML-red&style=for-the-badge&logo=Pencil&logoColor=yellow"/> <!--HTML-->
+    <img src="https://img.shields.io/badge/-VS Code-black?&style=for-the-badge&logo=VS Code&logoColor=green"> <!--VS Code-->
+    <img src="https://img.shields.io/badge/-HTML-red?&style=for-the-badge&logo=Pencil&logoColor=yellow"/> <!--HTML-->
 </div>
 
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -36,7 +36,7 @@ Continuing to study computer science, I've come to realize I seek to be at the i
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-blue?&style=for-the-badge&logo=Python&logoColor=yellow"/> <!--Python-->
-    <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=Java&logoCOlor=blue"/> <!--Java-->
+    <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=Java&logoColor=blue"/> <!--Java-->
     
 </div>
 
