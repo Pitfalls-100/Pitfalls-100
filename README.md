@@ -25,10 +25,12 @@ Continuing to study computer science, I've come to realize I seek to be at the i
 | HTTP Post Requests & Software + Hardware Integration (Arduino + Sensors)   | <a href="https://github.com/Pitfalls-100/SlinkyBot">SlinkyBot</a>|
 
 ## Tools
+
+### Development
 <div>
     <img src="https://img.shields.io/badge/-VS Code-grey?&style=for-the-badge&logo=Devbox&logoColor=39ff14"> <!--VS Code-->
     <br/>
-    <img src="https://img.shields.io/badge/-HTML-9B111E?&style=for-the-badge&logo=HTML5&logoColor=FFF01F"/> <!--HTML-->
+    <img src="https://img.shields.io/badge/-HTML-9B111E?&style=for-the-badge&logo=HTML5&logoColor=F06529"/> <!--HTML-->
 </div>
 
 ### Languages
