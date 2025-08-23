@@ -2,11 +2,9 @@
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a rising sophmore with a deep interest in technology and a predilection to solving complex problems.
-
 ## About Me
 
-In continuing to study computer science, I've come to realize I seek to be at the intersection of software development and cybersecurity. As such, I am eager to start my journey into this field as a frontend/backend webdeveloper.
+I am a rising sophmore with a deep interest in technology and a predilection to solving complex problems. In continuing to study computer science, I've come to realize I seek to be at the intersection of software development and cybersecurity. As such, I am eager to start my journey into this field as a frontend/backend webdeveloper.
 
 ## Projects (from most to least recent)
 - Pygit
