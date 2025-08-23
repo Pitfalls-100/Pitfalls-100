@@ -35,9 +35,9 @@ Continuing to study computer science, I've come to realize I seek to be at the i
 
 ### Languages
 <div>
-    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=FFF01F"/> <!--Python-->
+    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=87ceeb"/> <!--Python-->
     <br/>
-    <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=openjdk&logoColor=87ceeb"/> <!--Java-->
+    <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=openjdk&logoColor=black"/> <!--Java-->
     
 </div>
 
