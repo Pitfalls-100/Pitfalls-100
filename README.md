@@ -8,7 +8,7 @@
           <img alt="Badge that redirects to the developer's LinkedIN"src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>
      </a>
      <a href="">
-          <img alt="Badge the redirects to the developer's Portfolio" src="https://img.shields.io/badge/Portfolio-333333?&style=for-the-badge&logo=google-chrome"/>
+          <img alt="Badge the redirects to the developer's Portfolio" src="https://img.shields.io/badge/Portfolio-333333?&style=for-the-badge&logo=todoist"/>
      </a>
 </div>
 <h2 align="center">About Me</h1>
