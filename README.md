@@ -29,18 +29,18 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
         <img src="https://img.shields.io/badge/-VS Code-grey?&style=for-the-badge&logo=Devbox&logoColor=39ff14">
     </a>
     <br/>
-    <a href="https://en.wikipedia.org/wiki/HTML5">
+    <a href="https://en.wikipedia.org/wiki/HTML5"> <!--Change Link to Website-->
         <img src="https://img.shields.io/badge/-HTML-9B111E?&style=for-the-badge&logo=HTML5&logoColor=F06529"/>
     </a>
 </div>
 
 ### Languages
 <div>
-    <a href="https://www.python.org/downloads/">
+    <a href="https://www.python.org/downloads/"> <!--Change to Python Data Extraction/Analysis Program-->
         <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=FFF01F"/>
     </a>
     <br/>
-    <a href="https://www.java.com/en/download/">
+    <a href="https://www.java.com/en/download/"> <!--Change to Java Keylogger Program-->
         <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=openjdk&logoColor=black"/>
     </a>
     
