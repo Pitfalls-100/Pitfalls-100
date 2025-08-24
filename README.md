@@ -41,7 +41,7 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 <div align="center">
      <h2 align="center">My Contributions 🐍</h2>
      <br/>
-     <img alt="Snake eating developer's contributions" src="https://raw.githubusercontent.com/Pitfalls-100/Pitfalls-100/output/github-contribution-grid-snake.svg">
+     <img alt="Snake eating developer's contributions" src="https://raw.githubusercontent.com/Pitfalls-100/Pitfalls-100/output/github-contribution-grid-snake-dark.svg">
      <br/>
      <br/>
 </div>
