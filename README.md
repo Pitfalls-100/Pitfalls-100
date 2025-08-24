@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/058445245/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2 aligh="center">About Me</h1>
+<h2 align="center">About Me</h1>
 
 I am a rising sophmore with a deep interest in technology and a predilection to solving complex problems. In continuing to study computer science, I've come to realize I seek to be at the intersection of software development and cybersecurity. As such, I am eager to start my journey into this field as a frontend/backend webdeveloper.
 
