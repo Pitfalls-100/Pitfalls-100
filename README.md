@@ -23,20 +23,20 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 <br/>
 
 <div align="center">
-    <a href="https://github.com/microsoft/vscode">
-        <img src="https://skillicons.dev/icons/icons?i=vscode">
-    </a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl">
-        <img src="https://skillicons.dev/icons/icons?i=wsl"/>
-    </a>
-    <a href="https://www.python.org/downloads/"> <!--Change to Python Data Extraction/Analysis Program-->
-        <img src="https://skillicons.dev/icons/icons?i=python"/>
-    </a>
-    <br/>
-    <a href="https://www.java.com/en/download/"> <!--Change to Java Keylogger Program-->
-        <img src="https://skillicons.dev/icons/icons?i=java"/>
-    </a>
-    <img src="https://skillicons.dev/icons/icons?i=html, css">
+    <a href="https://skillicons.dev">
+        <a href="https://github.com/microsoft/vscode">
+            <img src="https://skillicons.dev/icons/icons?i=vscode">
+        </a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl">
+            <img src="https://skillicons.dev/icons/icons?i=wsl"/>
+        </a>
+        <a href="https://www.python.org/downloads/"> <!--Change to Python Data Extraction/Analysis Program-->
+            <img src="https://skillicons.dev/icons/icons?i=python"/>
+        </a>
+        <a href="https://www.java.com/en/download/"> <!--Change to Java Keylogger Program-->
+            <img src="https://skillicons.dev/icons/icons?i=java"/>
+        </a>
+        <img src="https://skillicons.dev/icons/icons?i=html, css">
     
 </div>
 
