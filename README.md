@@ -41,7 +41,7 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 <div align="center">
      <h2 align="center">My Contributions 🐍</h2>
      <br/>
-     <img alt="Snake eating developer's contributions" src="https://raw.githubusercontent.com/Pitfalls-100/Pitfalls-100/output/github-contribution-grid-snake.svg"
+     <img alt="Snake eating developer's contributions" src="https://raw.githubusercontent.com/Pitfalls-100/Pitfalls-100/output/github-contribution-grid-snake.svg">
      <picture> <!--Adding Dark Mode (because that's the proper Apperance setting)-->
        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
