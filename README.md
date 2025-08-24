@@ -45,11 +45,6 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
      <br/>
      <br/>
 </div>
-<picture> <!--Adding Dark Mode (because that's the proper Apperance setting)-->
-     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-     <img alt="github-snake eating developer's contributions" src="https://raw.githubusercontent.com/Pitfalls-100/Pitfalls-100/output/github-contribution-grid-snake.svg" />
-</picture>
 <hr/>
 
 <!--
