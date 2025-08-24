@@ -25,7 +25,7 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 
 ### Development
 <div>
-    <a href="https://code.visualstudio.com/download">
+    <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl">
         <img src="https://img.shields.io/badge/-VS Code-grey?&style=for-the-badge&logo=Devbox&logoColor=39ff14">
     </a>
     <br/>
