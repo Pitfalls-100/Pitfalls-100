@@ -23,8 +23,7 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 <br/>
 
 <div align="center">
-    <a href="https://skillicons.dev">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode, wsl, github, python, java, html, css" />
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
     </a>
     
 </div>
