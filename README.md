@@ -1,6 +1,6 @@
 <img src = "https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" height = 1000 width = 1000 alt="ObiWan Kenobi Meme"> 
 
-<div>
+<div align="center">
      <a href=""> <!--Link to "Throwaway" using *mailto:...* -->
           <img alt="Badge that redirects to the developer's Gmail" src="https://img.shields.io/badge/Gmail-whitesmoke?style=for-the-badge&logo=gmail&logoColor=#E40046"/>
      </a>
