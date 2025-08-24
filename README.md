@@ -10,14 +10,15 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 
 <div align="center">
 
-| Skill                                         | Associated Project         |
+| Project                                         | Associated Skill         |
 |:-----------------------------------------------:|:----------------------------:|
-| Version Control Fundamentals          | <a href="https://github.com/Pitfalls-100/Making_Pygit">Pygit (wyag)</a>|
-| Script Scheduling & API Integration | <a href="https://github.com/Pitfalls-100/Telegram_Bot_Script">Telgram Script</a>|
-| CrossPlatform Code Communication (Pi + Arduino)         | <a href="https://github.com/Pitfalls-100/Smart_Bottle_Base">Smart Bottle Base</a>|
-| HTTP Post Requests & Software + Hardware Integration (Arduino + Sensors)   | <a href="https://github.com/Pitfalls-100/SlinkyBot">SlinkyBot</a>|
+| <a href="https://github.com/Pitfalls-100/Making_Pygit">Pygit (wyag)</a> | Version Control Fundamentals |
+| <a href="https://github.com/Pitfalls-100/Telegram_Bot_Script">Telgram Script</a> | Script Scheduling & API Integration | 
+| <a href="https://github.com/Pitfalls-100/Smart_Bottle_Base">Smart Bottle Base</a> | CrossPlatform Code Communication (Pi + Arduino) |
+| <a href="https://github.com/Pitfalls-100/SlinkyBot">SlinkyBot</a> | HTTP Post Requests & Software + Hardware Integration (Arduino + Sensors) |
 
 </div>
+
 <h2 align="center">Laguages & Tools</h2>
 
 ### Development
