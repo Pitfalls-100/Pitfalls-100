@@ -11,9 +11,11 @@
           <img alt="Badge the redirects to the developer's Portfolio" src="https://img.shields.io/badge/Portfolio-333333?&style=for-the-badge&logo=todoist&logoColor=white"/>
      </a>
 </div>
-<h2 align="center">About Me</h1>
 
+<h2 align="center">About Me</h1>
+<div align="center">
 I am a rising sophmore with a deep interest in technology and a predilection to solving complex problems. In continuing to study computer science, I've come to realize I seek to be at the intersection of software development and cybersecurity. As such, I am eager to start my journey into this field as a frontend/backend webdeveloper.
+</div>
 <hr/>
 
 <h2 align="center">Projects (and What I Learned from Them)</h2>
