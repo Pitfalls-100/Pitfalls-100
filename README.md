@@ -11,7 +11,7 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 <div align="center">
 
 | Project                                         | Associated Skill         |
-|:-----------------------------------------------:|:----------------------------:|
+|:-----------------------------------------------|:----------------------------:|
 | <a href="https://github.com/Pitfalls-100/Making_Pygit">Pygit (wyag)</a> | Version Control Fundamentals |
 | <a href="https://github.com/Pitfalls-100/Telegram_Bot_Script">Telgram Script</a> | Script Scheduling & API Integration | 
 | <a href="https://github.com/Pitfalls-100/Smart_Bottle_Base">Smart Bottle Base</a> | CrossPlatform Code Communication (Pi + Arduino) |
