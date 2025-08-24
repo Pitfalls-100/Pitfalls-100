@@ -2,17 +2,11 @@
 
 <a href="https://www.linkedin.com/in/058445245/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h1 aligh="center">About Me</h1>
+<h2 aligh="center">About Me</h1>
 
 I am a rising sophmore with a deep interest in technology and a predilection to solving complex problems. In continuing to study computer science, I've come to realize I seek to be at the intersection of software development and cybersecurity. As such, I am eager to start my journey into this field as a frontend/backend webdeveloper.
 
-## Projects (from most to least recent)
-- Pygit
-- Telegram Script
-- Smart Bottle Base
-- SlinkyBot
-
-## Skills
+<h2 align="center">Projects (and What I Learned from Them)</h2>
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +15,7 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 | CrossPlatform Code Communication (Pi + Arduino)         | <a href="https://github.com/Pitfalls-100/Smart_Bottle_Base">Smart Bottle Base</a>|
 | HTTP Post Requests & Software + Hardware Integration (Arduino + Sensors)   | <a href="https://github.com/Pitfalls-100/SlinkyBot">SlinkyBot</a>|
 
-## Tools
+<h2 align="center">Laguages & Tools</h2>
 
 ### Development
 <div>
@@ -66,6 +60,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ->
