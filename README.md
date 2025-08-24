@@ -36,8 +36,7 @@ I am a rising sophmore with a deep interest in technology and a predilection to 
 </div>
 
 
-<h2>My Contributions</h2>
-
+<h2 align="center">My Contributions</h2>
 <div align="center">
 
 </div>
