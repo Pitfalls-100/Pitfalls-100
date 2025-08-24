@@ -4,7 +4,7 @@
      <a href=""> <!--Link to "Throwaway" using *mailto:...* -->
           <img alt="Badge that redirects to the developer's Gmail" src="https://img.shields.io/badge/Gmail-whitesmoke?style=for-the-badge&logo=gmail&logoColor=#E40046"/>
      </a>
-     <a href="https://www.linkedin.com/in/058445245/">
+     <a href="https://www.linkedin.com/in">
           <img alt="Badge that redirects to the developer's LinkedIN"src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>
      </a>
      <a href="">
