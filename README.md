@@ -1,4 +1,4 @@
-<img src = "https://media.tenor.com/0H9FujnmL6UAAAAM/hello-there-obi-wan-kenobi.gif" height = 250 width = 250> 
+<img src = "https://media.tenor.com/0H9FujnmL6UAAAAM/hello-there-obi-wan-kenobi.gif" height = 1000 width = 1000> 
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
