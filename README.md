@@ -1,4 +1,4 @@
-<img src = "https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" height = 1000 width = 1000 alt="ObiWan Kenobi Meme"> 
+<!--<img src = "https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" height = 1000 width = 1000 alt="ObiWan Kenobi Meme">-->
 
 <div align="center">
      <a href=""> <!--Link to "Throwaway" using *mailto:...* -->
